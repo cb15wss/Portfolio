@@ -306,3 +306,21 @@ body {
 .experienceImage {
   max-width: 100%;
 }
+
+.pad-bt15 {
+  padding-bottom: 15px;
+}
+
+.text-center {
+  text-align: center;
+}
+.devicon {
+  display: inline-block;
+  width: 74px;
+  height: 64px;
+  margin: 8px;
+}
+
+.devicon-wrapper {
+  text-align: center;
+}

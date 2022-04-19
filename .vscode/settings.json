@@ -1,4 +1,9 @@
 {
     "editor.fontSize": 16,
-    "editor.renameOnType": true
+    "editor.renameOnType": true,
+    "cSpell.words": [
+        "Bootcamp",
+        "organised",
+        "WCIT’s"
+    ]
 }
